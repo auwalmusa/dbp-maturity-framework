@@ -4,7 +4,7 @@
 
 This repository contains the technical artifacts associated with the research paper by **Auwal Musa (Batteric Ltd)**. It provides a standardized approach to assessing organizational readiness for the 2027 EU Digital Battery Passport (DBP) mandate.
 
-### 🚀 Overview
+### Overview
 
 EU Regulation 2023/1542 introduces complex data requirements that current "static" digital systems cannot support. This project provides:
 1.  **Maturity Scoring Logic:** A Python-based diagnostic tool to assess DBP readiness.
@@ -37,3 +37,4 @@ Contributions that extend the semantic ontologies or scoring criteria are welcom
 ---
 **Maintained by:** Auwal Musa, [Batteric Ltd](https://batteric.com)
 **Contact:** auwal@batteric.com
+
