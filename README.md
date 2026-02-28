@@ -28,7 +28,7 @@ python maturity_scoring.py
 Use the `dbp_reference_schema.json` as a blueprint for your data architecture. It is designed to be compatible with decentralised identifiers (DIDs) and the Catena-X data space.
 
 ### 📄 Documentation
-For the full theoretical background and methodology, please refer to the associated paper: 
+For the full theoretical background and methodology, please refer to the associated draft paper: 
 **"Mind the Specification Gap" by Auwal Musa.**
 
 ### 🤝 Contributing
@@ -37,5 +37,6 @@ Contributions that extend the semantic ontologies or scoring criteria are welcom
 ---
 **Maintained by:** Auwal Musa, [Batteric Ltd](https://batteric.com)
 **Contact:** auwal@batteric.com
+
 
 
