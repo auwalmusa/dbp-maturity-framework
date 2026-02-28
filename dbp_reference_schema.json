@@ -1,0 +1,38 @@
+{
+  "@context": {
+    "dbp": "https://batteric.com/ns/dbp#",
+    "iso": "https://iso.org/ns/15459#",
+    "gs1": "https://gs1.org/ns/digital-link#",
+    "schema": "http://schema.org/"
+  },
+  "@type": "dbp:DigitalBatteryPassport",
+  "battery_id": "iso:BE-88234-9912",
+  "economic_operator": {
+    "name": "Batteric Ltd",
+    "id": "LEI-549300H2V7M9C4L8E"
+  },
+  "carbon_footprint": {
+    "total_kg_co2": 450.5,
+    "performance_class": "A",
+    "methodology": "EU PEFCR-Batteries v2.0"
+  },
+  "dynamic_data": {
+    "state_of_health": {
+      "value": 92.4,
+      "unit": "percent",
+      "timestamp": "2026-02-28T12:00:00Z"
+    },
+    "cycle_count": 450,
+    "internal_resistance": {
+      "value": 0.045,
+      "unit": "ohm"
+    }
+  },
+  "material_composition": {
+    "recyclable_content": {
+      "cobalt": 12.5,
+      "lithium": 4.2,
+      "nickel": 65.0
+    }
+  }
+}
